@@ -19,9 +19,9 @@ import { selectGenreOrCategory } from '../../features/currentGenreOrCategory';
 import genreIcons from '../../assets/genres';
 
 const redLogo =
-  'https://fontmeme.com/permalink/210930/8531c658a743debe1e1aa1a2fc82006e.png';
+  'https://raw.githubusercontent.com/shantanusoam/Vampire/main/src/assets/VAMPIRE_red.png';
 const blueLogo =
-  'https://fontmeme.com/permalink/210930/6854ae5c7f76597cf8680e48a2c8a50a.png';
+  'https://raw.githubusercontent.com/shantanusoam/Vampire/main/src/assets/VAMPIRE_blue.png';
 
 const categories = [
   { label: 'Popular', value: 'popular' },
